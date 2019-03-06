@@ -41,6 +41,7 @@ function Ninja(name){
     }
 }
 
+
 var ninja1 = new Ninja("Hyabusa");
 var ninja2 = new Ninja("Goku");
 ninja1.sayName();
